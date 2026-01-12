@@ -1,6 +1,8 @@
 # pdi_r
 Calculate polytomous discrimination index (PDI) Value Use pdi (mcca) With (In) R Software
 
+https://www.youtube.com/watch?v=H-XYRkJ3blo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
